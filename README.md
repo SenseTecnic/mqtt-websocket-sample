@@ -17,7 +17,7 @@ node mqtt-websocket -h <MQTT_HOST> --ssl -u <FRED_USERNAME> -c <MQTT_CLIENT_ID> 
 Example:
 
 ```
-node mqtt-websocket -h mqtt.iotpop.net --ssl -u tedh -c tedh-149b148f -p 123123123 -t users/tedh/test
+node mqtt-websocket -h mqtt.sensetecnic.com --ssl -u tedh -c tedh-82883de9 -p 123123123 -t users/tedh/test
 ```
 
 You can enter messages to the console after connecting.
